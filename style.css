@@ -1,0 +1,16 @@
+#map {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+  }
+  
+  .mapButton {
+    background-color: #4285f4;
+    border: none;
+    color: #fff;
+    padding: 160px 150px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: x-large;
+  }
+  

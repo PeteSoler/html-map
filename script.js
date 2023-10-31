@@ -1,8 +1,6 @@
 function initPage() {
-    // Cargar el mapa y preguntar por permisos al mismo tiempo
-    initMap();
-  }
+  initMap();
+}
   
-  // Cargar el contenido cuando la página termina
-  window.onload = initPage;
+window.onload = initPage;
   
